@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Difine some datatypes
+// Define some datatypes
 typedef uint8_t     BYTE; // 1 byte unsigned
 typedef uint16_t    DOUBLEBYTE; // 2 bytes unsigned
 typedef uint32_t    QUADBYTE; // 4 bytes unsigned
